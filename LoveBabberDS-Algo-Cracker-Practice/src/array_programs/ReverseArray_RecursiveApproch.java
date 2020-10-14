@@ -36,3 +36,14 @@ public class ReverseArray_RecursiveApproch {
 	}
 
 }
+
+/*
+
+Output:
+Present Array :-
+10,3,8,5,2,18,
+Reverse Array :-
+18,2,5,8,3,10,
+
+
+*/

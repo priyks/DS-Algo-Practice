@@ -42,3 +42,15 @@ public class ReverseArray_IterativeMethod_Approch {
 	}
 
 }
+
+/*
+ 
+ Output:
+Present Array :-
+4,5,6,3,2,1,
+Reverse Array :-
+1,2,3,6,5,4,
+  
+  
+  
+ */
